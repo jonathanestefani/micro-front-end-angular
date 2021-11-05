@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/joeldenning/coexisting-angular-microfrontends.svg?branch=master)](https://travis-ci.org/joeldenning/coexisting-angular-microfrontends)
-
 # Angular Microfrontends
 Acesse o terminal na pasta do projeto
 
